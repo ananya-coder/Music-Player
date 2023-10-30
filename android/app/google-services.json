@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69620768664",
+    "project_id": "fir-music-app-ad1ba",
+    "storage_bucket": "fir-music-app-ad1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69620768664:android:f8a6ac0d28e2a6365855ed",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69620768664-e08q7dosjmg5mds2k7fkrvrrnaarjc78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotify",
+            "certificate_hash": "3c7574274a51f0ba5d5ff83cde0bf18e7c9aadec"
+          }
+        },
+        {
+          "client_id": "69620768664-5vpv2ca5u84k47pldkgeql5hmpkfdrs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhhr-ElBz3o6aXMuq-N1TnXLO6KsDD-ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69620768664-5vpv2ca5u84k47pldkgeql5hmpkfdrs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
